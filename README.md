@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 - Using Vim(not like pro),VSCode,Docker,byobu,Ecplise(no option...)
 - Matias Keybord(**SUPER NOISEY!**)
 
-##Contact
+## Contact
 
-Mail: [y.saffrontea@gmail.com](mailto:y.saffrontea@gmail.com)
-Twitter: [@saffrontea_](https://www.twitter.com/saffrontea_)
+- Mail: [y.saffrontea@gmail.com](mailto:y.saffrontea@gmail.com)
+- Twitter: [@saffrontea_](https://www.twitter.com/saffrontea_)
