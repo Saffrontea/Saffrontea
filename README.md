@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 - Student(Tokyo)
 - Interested in Rust at now!
-- I have experience using Linux for 9 years(Ubutnu 12.04~).
+- Have experience using Linux for 9 years(Ubutnu 12.04~).
 
 ## Env
 
