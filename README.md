@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 - Live in Tokyo
 - Interested in Rust at now!
-- Have experience using Linux for 9 years(Ubutnu 12.04~).
+- Have experience using Linux for 12 years(Ubutnu 12.04~).
 - finding new jobs... 
 
 ## Env
